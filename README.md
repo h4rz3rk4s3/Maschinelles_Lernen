@@ -1,2 +1,2 @@
 # Maschinelles_Lernen
-Notebooks und Datensätze zum Modul Maschinelles Lernen
+Ansammlung von Notebooks und Datensätze aus dem Modul Maschinelles Lernen.
